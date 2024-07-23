@@ -23,7 +23,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
 ┃⭐ Creador : Bot Elmo
-┃📞 Wa.me/+569937612008
+┃📞 Wa.me/+56993761200
 ┃https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
